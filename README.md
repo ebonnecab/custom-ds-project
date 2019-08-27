@@ -18,3 +18,11 @@ The dataset used can be found [here](https://www.kaggle.com/new-york-state/nys-c
 * Matplotlib
 * Seaborn
 * Numpy
+
+## Summary of Analysis
+
+* The average number of indicated CPS reports is 780.
+* The median number of indicated CPS reports is 263.
+* NYC is the county with the highest number of indicated CPS reports.
+* NYC had the lowest rate of CPS reports in 1995 and the highest rate in 2010.
+* I am unable to conclude why the rate is so high from this dataset but it is worth exploring further.
